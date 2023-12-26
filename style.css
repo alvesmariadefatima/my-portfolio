@@ -158,8 +158,8 @@ footer {
     }
 
     .navbar-nav {
-        flex-direction: row;
-        text-align: center;
+        flex-direction: column;
+        text-align: left;
     }
 
     .navbar-nav .nav-item {
